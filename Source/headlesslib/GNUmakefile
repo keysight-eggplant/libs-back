@@ -1,3 +1,24 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 21a32342aa618a59d1be420f84c730f2dbd8b109
+# Date: 2020-03-05 14:33:58 -0500
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8e43e75cf5bea127220e4e01bce0356228898a7e
+# Date: 2020-03-05 13:24:51 -0500
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3b2fc608844f5592319ca708aea381a8d0035b5a
+# Date: 2020-03-05 13:14:43 -0500
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 535348a54d14e714b4e38af7fa06b802b2d80240
+# Date: 2020-03-04 14:14:59 -0500
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 168d5d5a65ff0ce9be7fcd9e800f036369650c69
+# Date: 2020-03-04 11:22:51 -0500
+########## End of Keysight Technologies Notice ##########
 #  Copyright (C) 2004 Free Software Foundation, Inc.
 #
 #  Author: Banlu Kemiyatorn <object at gmail dot com>

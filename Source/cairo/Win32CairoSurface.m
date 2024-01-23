@@ -1,3 +1,92 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Bill Everett
+# Commit ID: 82bf9cd7c41c92f1d636ef27e9d98148eabbe33b
+# Date: 2018-12-13 23:13:42 +0000
+--------------------
+# Committed by: Bill Everett
+# Commit ID: e7a47cdce31973fb6ea35b581f4523781ad5f35e
+# Date: 2018-12-13 21:21:35 +0000
+--------------------
+# Committed by: Bill Everett
+# Commit ID: 99017762cc802a6f5a7ae38a7960f0ff4d10fe0a
+# Date: 2018-12-08 22:19:44 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 71864f8dea9a7fe625662d2b4c8bc2ba915bafde
+# Date: 2016-10-12 16:30:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c43e4677848a4965d825835e0c39377983f4124f
+# Date: 2015-07-14 22:36:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aaa0a6e5c228a4a6260253bd6fdf87a7e5c568a8
+# Date: 2014-02-27 22:01:29 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: afe41336df2ce6abdc48417e14c6dc330737482f
+# Date: 2013-07-20 16:32:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 95a8e8d68f84f7bb33fa2d7019faaacf7172ee06
+# Date: 2013-05-19 22:46:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 16ef33d4c4368a7431b99b8bf1f8dbc8f0edcbdc
+# Date: 2013-05-09 01:49:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 612a141f28210cb62355f2053c58eab4bb18a867
+# Date: 2013-05-09 01:32:02 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a91ebbd8b8af865cc582360c5e1862fc2db34d44
+# Date: 2013-01-17 23:09:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0ebb1b141154e22133ccbe26fec22b551cacf30c
+# Date: 2012-10-25 21:28:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2d72a18f1a29f00377f76a1ac4bd94fb5869a26b
+# Date: 2012-10-25 19:26:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e5e02267f94155ee57763f53a22819f2ffd625b4
+# Date: 2012-10-25 19:15:48 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 41ebb7a852ac62f6264da80a9f94fe90719f0c17
+# Date: 2012-10-25 18:53:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aa519f55a8a8b3e3fcf786da578958ac4e5cdee8
+# Date: 2012-10-17 20:08:34 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9b0f83a5d9b6f2639b4255360aac62cc646c4086
+# Date: 2012-10-11 20:40:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0cfb23088f75422242becc547643db98350dad66
+# Date: 2012-09-19 18:06:44 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a63d526943e627a7ea2221815973f6ee41be7d7f
+# Date: 2012-09-07 20:04:11 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7a892f25ce6b4ecb2083a7ebf30d22e3c9799e66
+# Date: 2012-08-29 21:34:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f5c781e78ff2c4fd13a914170c541e1a7b9fb57e
+# Date: 2012-08-08 22:22:10 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    Win32CairoSurface.m
 

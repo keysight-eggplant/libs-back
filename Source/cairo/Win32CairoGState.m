@@ -1,3 +1,36 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 4dc6f34ac8c2c74fb58da603626a8a56848f7fd2
+# Date: 2018-01-12 23:27:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e67d8442e9164d14610ed9a9b2e53c6bbb2c7f2a
+# Date: 2016-04-13 21:08:01 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6e1de7df76e370a8cae7d5cae862e9fe8ed14eca
+# Date: 2016-04-04 14:50:09 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 05640cbf486e802f65ab548937a057f237dd31c7
+# Date: 2016-04-03 20:59:32 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a56731c3574d3ca17080ea2592669040af2ac598
+# Date: 2014-03-11 22:24:20 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 45e9f8b8e04a3c268eb8c97e6631310064390510
+# Date: 2013-08-09 16:06:05 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 598be2609a0cba9ae2e45e291c9f0fcefe96bcb4
+# Date: 2012-08-08 22:21:19 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    Win32CairoGState.m
 

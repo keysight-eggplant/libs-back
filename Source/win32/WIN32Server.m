@@ -1,3 +1,244 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Bill Everett
+# Commit ID: 82bf9cd7c41c92f1d636ef27e9d98148eabbe33b
+# Date: 2018-12-13 23:13:42 +0000
+--------------------
+# Committed by: Bill Everett
+# Commit ID: e7a47cdce31973fb6ea35b581f4523781ad5f35e
+# Date: 2018-12-13 21:21:35 +0000
+--------------------
+# Committed by: Bill Everett
+# Commit ID: 99017762cc802a6f5a7ae38a7960f0ff4d10fe0a
+# Date: 2018-12-08 22:19:44 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e3a1ac3e635335796bd5795bc0d66e843789be05
+# Date: 2017-06-27 14:57:08 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d9947de1b5f9dba597ae665fc4a3073b589aec3c
+# Date: 2017-06-22 20:00:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: bcd908a200f4640ed62b439a50fc42894e684edf
+# Date: 2017-02-17 21:48:47 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: face0f534bc13860a38437240b81a409e6f39eb3
+# Date: 2016-11-30 19:09:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1bfcb3684ffaf863c8c0166ff61efbb8dcb3ed82
+# Date: 2016-11-30 15:42:32 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 25949d2ae1182a3b18fccf1b0e9eb8c00cb01ce7
+# Date: 2016-11-25 17:02:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 08bdfb4c2fad080050f01cb92063e6c393cd9d4e
+# Date: 2016-11-08 21:38:33 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 296de597edc3e73433fc8f1a214cb4ae26727719
+# Date: 2016-10-27 16:12:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7d6a4ef7eb6d511a2dc71116e302b8c2cc2c4a82
+# Date: 2016-10-20 18:14:17 +0000
+--------------------
+# Committed by: Paul Landers
+# Commit ID: 71864f8dea9a7fe625662d2b4c8bc2ba915bafde
+# Date: 2016-10-12 16:30:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8b05cec0e1c50e0138e2197651176578c9ec183c
+# Date: 2016-08-11 15:12:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: da5ff641d39da96508ee0c341e041e2af301a365
+# Date: 2016-08-10 19:13:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ac3e797146661c0461a8dee72c408b47757b7e13
+# Date: 2016-05-30 19:52:57 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 28dfe59d6b2fe3be881bdde00e01ba92ae866c4f
+# Date: 2016-05-30 19:39:08 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4cfd70922555dba3f0e08074dada3b93f94046da
+# Date: 2016-03-08 16:32:03 +0000
+--------------------
+# Committed by: Aarti Munjal
+# Commit ID: 457ca77b6b7839c93e31610eeccbcd17a96c66a8
+# Date: 2016-03-08 16:27:48 +0000
+--------------------
+# Committed by: Aarti Munjal
+# Commit ID: 916020216bdbf96ba702a2244d0807f3a656f5fe
+# Date: 2016-03-07 21:41:18 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 0a23ca1c656311d138e0c533a3e4e334a787783a
+# Date: 2016-02-03 03:11:25 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: bc7143d2d501251da4154b985fc33dbcbff3e4a4
+# Date: 2015-11-23 19:32:08 +0000
+--------------------
+# Committed by: Adam Fox
+# Commit ID: 1ebf02d6f9785bc1f6585682606e8d615b6037e4
+# Date: 2015-08-13 03:37:52 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3e1df4d6efaad6e75d5bbb45bd8b2943620fd22e
+# Date: 2015-03-26 19:53:13 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 6796519eb2bc286c9f30869ce30fcfbca0796565
+# Date: 2014-07-10 04:47:00 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e9c150207b883eb128e9ecfe4b67a9d6832e0ea0
+# Date: 2014-04-02 22:57:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 447f226df0a16bec011ff83dab7d5e49c839bdbd
+# Date: 2014-03-10 16:33:49 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: fd6955f139267d36e06cf9c272bc9bb619aa43f5
+# Date: 2014-01-23 16:10:45 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: b379b7ff5b6adf407e3901502efde851f5d6cbee
+# Date: 2013-10-21 18:00:44 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 128d09da60de4b749d17101f9cb11508523d40c6
+# Date: 2013-10-03 20:28:20 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: b64f7fbd789f08c33ed120ffd31fc34f26ff8320
+# Date: 2013-08-23 16:08:46 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 9308410d88f1b671af005c13c992409e838af80a
+# Date: 2013-08-20 16:41:21 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 858f1e745e5ac548c02874c4c6af245007eaf06b
+# Date: 2013-08-18 19:24:57 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7b6690c71884b91183cf092eaa92547e626d43d9
+# Date: 2013-06-11 23:53:28 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5006663d2dfe5e5697553806bde8bb9e1b805bd6
+# Date: 2013-05-10 01:21:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: acf6d1330808705072f4945b6f8b007c3fb669b7
+# Date: 2013-02-01 17:41:23 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: fbb6f1257d457627e2527a6d79d078e1006ef90e
+# Date: 2013-01-31 16:25:51 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 896657c5625d259ca31c2054757741b4603bc81a
+# Date: 2013-01-31 14:58:25 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9e3bd1f431e91d1a686a77563bec49f874f709ef
+# Date: 2013-01-31 14:54:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3390d6a6b92c31208a85aa95a5b4ec88474ffa59
+# Date: 2013-01-30 22:23:32 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 46d6bb5fa48457a7519431abc162af17a5653662
+# Date: 2013-01-29 23:42:10 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1c5a0d1e0a3ba9a9f2715b0cb8968d67df966986
+# Date: 2013-01-18 01:29:06 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a91ebbd8b8af865cc582360c5e1862fc2db34d44
+# Date: 2013-01-17 23:09:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 809c91a6c16f6f310fc274128d84664810844556
+# Date: 2013-01-16 16:07:42 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9c1c78273c6aa989a4e0d02fd3ab6ab784fe90f7
+# Date: 2013-01-15 21:53:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 57f71dadc3fc4ac88122429d47b79ea55b7bab48
+# Date: 2013-01-15 17:02:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aae0f7748c44cc465e02c8ce9cccfdc4a0bbfbf4
+# Date: 2012-11-21 20:53:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f018376f1267e7b494ff529b86e7e819ebe1998a
+# Date: 2012-11-14 19:06:57 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 9c3739a27a2820a78071ac0b7afd4e7da657026d
+# Date: 2012-10-25 04:07:30 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aa519f55a8a8b3e3fcf786da578958ac4e5cdee8
+# Date: 2012-10-17 20:08:34 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 30941f5681f646e6e1d9a3c8debd90b6baf6daf3
+# Date: 2012-10-11 20:53:36 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9b0f83a5d9b6f2639b4255360aac62cc646c4086
+# Date: 2012-10-11 20:40:21 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 86c60367397e23028282db7eedd6ee7b786d2f90
+# Date: 2012-10-10 21:42:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0cfb23088f75422242becc547643db98350dad66
+# Date: 2012-09-19 18:06:44 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a63d526943e627a7ea2221815973f6ee41be7d7f
+# Date: 2012-09-07 20:04:11 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 001e3307ece9edf7988bf41a4f16ef1809858f47
+# Date: 2012-09-06 22:43:12 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7a892f25ce6b4ecb2083a7ebf30d22e3c9799e66
+# Date: 2012-08-29 21:34:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 643bedc834315faa1cb09e8b2fd964ab26067270
+# Date: 2012-08-08 22:26:52 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 999c4362968a8e5cf56c874ea96afbc1f3412230
+# Date: 2012-06-27 17:59:11 +0000
+########## End of Keysight Technologies Notice ##########
 /* WIN32Server - Implements window handling for MSWindows
 
    Copyright (C) 2002, 2005 Free Software Foundation, Inc.

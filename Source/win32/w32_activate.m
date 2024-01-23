@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 25949d2ae1182a3b18fccf1b0e9eb8c00cb01ce7
+# Date: 2016-11-25 17:02:59 +0000
+########## End of Keysight Technologies Notice ##########
 /* WIN32Server - Implements window handling for MSWindows
 
    Copyright (C) 2005 Free Software Foundation, Inc.

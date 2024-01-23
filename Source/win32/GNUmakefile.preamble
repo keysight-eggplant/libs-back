@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: df9cbc87ebb6cda054504e0c55f9c24f57a00335
+# Date: 2018-01-08 19:09:11 +0000
+########## End of Keysight Technologies Notice ##########
 
 #  GNUmakefile.preamble
 #

@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 66866885ef9c70dfa4913a714c961f4e55eff59d
+# Date: 2016-10-06 14:00:51 +0000
+########## End of Keysight Technologies Notice ##########
 /* <title>XGServer</title>
 
    <abstract>Backend server using the X11.</abstract>

@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 168d5d5a65ff0ce9be7fcd9e800f036369650c69
+# Date: 2020-03-04 11:22:51 -0500
+########## End of Keysight Technologies Notice ##########
 /* 	-*-ObjC-*- */
 /* XGOpenGL - openGL management using glX
 

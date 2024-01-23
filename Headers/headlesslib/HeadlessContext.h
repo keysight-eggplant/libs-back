@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 535348a54d14e714b4e38af7fa06b802b2d80240
+# Date: 2020-03-04 14:14:59 -0500
+########## End of Keysight Technologies Notice ##########
 /*
    HeadlessContext.h
  

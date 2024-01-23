@@ -1,3 +1,60 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: d9947de1b5f9dba597ae665fc4a3073b589aec3c
+# Date: 2017-06-22 20:00:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c1b52babfb21ae4b56761a836a767f4c9275db5b
+# Date: 2016-12-07 21:45:00 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 66866885ef9c70dfa4913a714c961f4e55eff59d
+# Date: 2016-10-06 14:00:51 +0000
+--------------------
+# Committed by: Aarti Munjal
+# Commit ID: 457ca77b6b7839c93e31610eeccbcd17a96c66a8
+# Date: 2016-03-08 16:27:48 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: b379b7ff5b6adf407e3901502efde851f5d6cbee
+# Date: 2013-10-21 18:00:44 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 128d09da60de4b749d17101f9cb11508523d40c6
+# Date: 2013-10-03 20:28:20 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: a91ebbd8b8af865cc582360c5e1862fc2db34d44
+# Date: 2013-01-17 23:09:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 57f71dadc3fc4ac88122429d47b79ea55b7bab48
+# Date: 2013-01-15 17:02:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f018376f1267e7b494ff529b86e7e819ebe1998a
+# Date: 2012-11-14 19:06:57 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aa519f55a8a8b3e3fcf786da578958ac4e5cdee8
+# Date: 2012-10-17 20:08:34 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7a892f25ce6b4ecb2083a7ebf30d22e3c9799e66
+# Date: 2012-08-29 21:34:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c58a4af6816841618420deeb3888bf97b3dc4e96
+# Date: 2012-08-08 22:28:34 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 999c4362968a8e5cf56c874ea96afbc1f3412230
+# Date: 2012-06-27 17:59:11 +0000
+########## End of Keysight Technologies Notice ##########
 /* WIN32Server - Implements window handling for MSWindows
 
    Copyright (C) 2002,2005 Free Software Foundation, Inc.

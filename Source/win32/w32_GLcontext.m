@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 25d6855dc0b54aeb4d79080a5adb8cea75b80144
+# Date: 2012-11-21 20:58:07 +0000
+########## End of Keysight Technologies Notice ##########
 /* -*- mode:ObjC -*-
    Win32GLContext - backend implementation of NSOpenGLContext
 

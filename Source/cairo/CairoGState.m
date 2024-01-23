@@ -1,3 +1,36 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 05a19bdf42ba9487cbc3833c014173c4449f401c
+# Date: 2016-12-06 02:36:30 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 66866885ef9c70dfa4913a714c961f4e55eff59d
+# Date: 2016-10-06 14:00:51 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c43e4677848a4965d825835e0c39377983f4124f
+# Date: 2015-07-14 22:36:43 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aae0f7748c44cc465e02c8ce9cccfdc4a0bbfbf4
+# Date: 2012-11-21 20:53:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 9b0f83a5d9b6f2639b4255360aac62cc646c4086
+# Date: 2012-10-11 20:40:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 005f0ee278158997ca45272a24b1beb1900fd05f
+# Date: 2012-08-29 22:53:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 5f7ea64199bf225dcb9c788692db8d4853f9191d
+# Date: 2012-08-08 22:23:43 +0000
+########## End of Keysight Technologies Notice ##########
 
 /*
    CairoGState.m

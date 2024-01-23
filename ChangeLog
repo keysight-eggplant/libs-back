@@ -1,3 +1,48 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Doug Simons
+# Commit ID: bc7143d2d501251da4154b985fc33dbcbff3e4a4
+# Date: 2015-11-23 19:32:08 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 6796519eb2bc286c9f30869ce30fcfbca0796565
+# Date: 2014-07-10 04:47:00 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: b379b7ff5b6adf407e3901502efde851f5d6cbee
+# Date: 2013-10-21 18:00:44 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 128d09da60de4b749d17101f9cb11508523d40c6
+# Date: 2013-10-03 20:28:20 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 858f1e745e5ac548c02874c4c6af245007eaf06b
+# Date: 2013-08-18 19:24:57 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 2a6477c928c4ee4283280cee520f3be371841981
+# Date: 2013-01-11 03:12:56 +0000
+--------------------
+# Committed by: Doug Simons
+# Commit ID: 9c3739a27a2820a78071ac0b7afd4e7da657026d
+# Date: 2012-10-25 04:07:30 +0000
+--------------------
+# Committed by: Jonathan Gillaspie
+# Commit ID: 86c60367397e23028282db7eedd6ee7b786d2f90
+# Date: 2012-10-10 21:42:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 946f7e99d573e1f8d2587234bf23a05ee3583b67
+# Date: 2012-08-08 23:06:09 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 999c4362968a8e5cf56c874ea96afbc1f3412230
+# Date: 2012-06-27 17:59:11 +0000
+########## End of Keysight Technologies Notice ##########
 2015-11-23  Doug Simons <doug.simons@testplant.com>
 
 	* Source/win32/WIN32Server.m : Allow the Escape key to go through

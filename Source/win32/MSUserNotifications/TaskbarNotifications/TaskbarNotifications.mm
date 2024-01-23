@@ -1,3 +1,32 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Paul Landers
+# Commit ID: 71864f8dea9a7fe625662d2b4c8bc2ba915bafde
+# Date: 2016-10-12 16:30:03 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ee6453135a360a54c603151388b7f9d074354baf
+# Date: 2016-09-16 15:22:50 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: cec559f5124ccacc430b638bc39b308cfc78f4ac
+# Date: 2016-07-24 18:06:18 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1852c085e8cedf6791829f8c255616e63e6d2ada
+# Date: 2016-05-19 17:03:41 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: d7a2a650bb9e0f7874f9c0a51f2a0206388f32c7
+# Date: 2016-05-19 17:01:45 +0000
+--------------------
+# Committed by: Aarti Munjal
+# Commit ID: 39e7d68833a8c058519a01e5b5b9b328a3e20a87
+# Date: 2016-05-19 13:59:37 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 58ca6b5c8eade494f10a3bf60bc4968e7c5234ca
+# Date: 2016-05-11 20:46:04 +0000
+########## End of Keysight Technologies Notice ##########
 // Windows documentation - see: https://msdn.microsoft.com/en-us/library/windows/desktop/bb773352(v=vs.85).aspx
 // Several members of this structure are only supported for Windows 2000 and later. To enable these members, 
 //  include one of the following lines in your header:

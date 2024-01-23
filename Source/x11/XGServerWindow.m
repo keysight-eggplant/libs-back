@@ -1,3 +1,44 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 2cb655c4635ec38d1010b5848f1c37ccf1ae28a3
+# Date: 2016-11-29 15:21:50 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 25949d2ae1182a3b18fccf1b0e9eb8c00cb01ce7
+# Date: 2016-11-25 17:02:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 76395e0c2e9a58abade064b7677c347d97a2fa7e
+# Date: 2016-11-14 17:02:01 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 30973f8c9ba2a7456a4ef9e66bb22f7ce45e131b
+# Date: 2016-11-10 22:39:08 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e8f7691a052c424b88aba2dd29f6dafe3683393d
+# Date: 2016-11-09 21:17:46 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c43e4677848a4965d825835e0c39377983f4124f
+# Date: 2015-07-14 22:36:43 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 6fe6cb74cc50dbd2b67d10538f249c7bc7d884b6
+# Date: 2014-05-07 21:05:38 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0e941b80a5f6b18b1284b040675e657757dd89b6
+# Date: 2014-05-07 20:45:54 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aae0f7748c44cc465e02c8ce9cccfdc4a0bbfbf4
+# Date: 2012-11-21 20:53:22 +0000
+########## End of Keysight Technologies Notice ##########
 /* XGServerWindows - methods for window/screen handling
 
    Copyright (C) 1999 Free Software Foundation, Inc.

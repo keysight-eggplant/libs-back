@@ -1,3 +1,28 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 66866885ef9c70dfa4913a714c961f4e55eff59d
+# Date: 2016-10-06 14:00:51 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: e67b35527f05182f344996b1c46706d2d528d2ba
+# Date: 2016-04-04 14:57:52 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 332c91319c7168aa58e28b7102b0e4bc6d82f842
+# Date: 2016-04-03 20:33:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c43e4677848a4965d825835e0c39377983f4124f
+# Date: 2015-07-14 22:36:43 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 3aeec4ae2ed2a0fa514761ca65ab8bcb31dd674a
+# Date: 2012-08-08 22:25:33 +0000
+########## End of Keysight Technologies Notice ##########
 /* GSGState - Generic graphic state
 
    Copyright (C) 1998-2010 Free Software Foundation, Inc.

@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: f9303f7bbd9cecf24d5930e06c828c902d074bfc
+# Date: 2016-05-29 20:28:36 +0000
+########## End of Keysight Technologies Notice ##########
 #include "stdafx.h"
 #include "ToastNotification.h"
 #include "ToastEventHandler.h"

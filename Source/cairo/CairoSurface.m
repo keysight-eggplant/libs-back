@@ -1,3 +1,8 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: aae0f7748c44cc465e02c8ce9cccfdc4a0bbfbf4
+# Date: 2012-11-21 20:53:22 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    Copyright (C) 2004 Free Software Foundation, Inc.
 

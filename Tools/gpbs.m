@@ -1,3 +1,40 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Adam Fox
+# Commit ID: 51ab44c3ab0adf921e2fc09d1e56cdd229ad93e9
+# Date: 2020-01-01 01:55:30 -0700
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 856063db4989e777d5b516454a085109c0dd0cd7
+# Date: 2017-09-01 16:25:32 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 1e919769c8fbd66463281162b493b5f1905fa016
+# Date: 2016-10-25 20:42:54 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 28dfe59d6b2fe3be881bdde00e01ba92ae866c4f
+# Date: 2016-05-30 19:39:08 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0b5756acc62ad759113792aa7bf83b164d5061da
+# Date: 2016-05-29 21:52:51 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 4b2d92d870f8ce35e6376201f3365f80e737bfff
+# Date: 2015-12-08 00:39:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 32a1f5ef95ffd7187d65d82b4d49d05d2edde1df
+# Date: 2015-12-01 18:46:09 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 2d9365667cda19a7486bc953527d702e87449c67
+# Date: 2015-12-01 17:24:17 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c9965155209996b345ed64ac9f4c06d7bd2a8e2e
+# Date: 2015-12-01 17:06:52 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    gpbs.m
 

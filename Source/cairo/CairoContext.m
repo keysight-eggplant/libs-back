@@ -1,3 +1,36 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 168d5d5a65ff0ce9be7fcd9e800f036369650c69
+# Date: 2020-03-04 11:22:51 -0500
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 422c49b5ef9844833eacc56fbe8a8d68dfcbd610
+# Date: 2016-10-19 20:30:16 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: c43e4677848a4965d825835e0c39377983f4124f
+# Date: 2015-07-14 22:36:43 +0000
+--------------------
+# Committed by: Frank Le Grand
+# Commit ID: 1b82d912b55f817956e396273e2eb6816fa37389
+# Date: 2013-08-09 14:21:15 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 36d045cf0a5f11514e5fefae73b8d70ea216685e
+# Date: 2013-07-21 13:22:59 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: afe41336df2ce6abdc48417e14c6dc330737482f
+# Date: 2013-07-20 16:32:35 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: aae0f7748c44cc465e02c8ce9cccfdc4a0bbfbf4
+# Date: 2012-11-21 20:53:22 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 49f971cb288a12d2d28852c02a8a96e0838c3648
+# Date: 2012-08-08 22:22:36 +0000
+########## End of Keysight Technologies Notice ##########
 /*
    CairoContext.m
 
