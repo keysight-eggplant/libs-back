@@ -43,7 +43,7 @@ SUBPROJECT_NAME=win32
 ifdef GNUSTEP_BASE_MAJOR_VERSION
   ifdef GNUSTEP_BASE_MINOR_VERSION
     #$(info building MSUserNotifications bundle...)
-    SUBPROJECTS = MSUserNotifications
+    # SUBPROJECTS = MSUserNotifications
   endif
 endif
 
