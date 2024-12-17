@@ -1,0 +1,8 @@
+# Build products
+obj/
+config.*
+GSConfig.h
+back.make
+*.o
+*.d
+*.dll

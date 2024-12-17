@@ -180,7 +180,7 @@
 
 - (NSSize) size
 {
-  NSWindow *window = GSWindowWithNumber(gsDevice);
+  NSWindow *window = GSWindowWithNumber((int)gsDevice);
   
   RECT desktop;
   const HWND hDesktop = GetDesktopWindow();

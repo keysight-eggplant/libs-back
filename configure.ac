@@ -188,6 +188,8 @@ if test "x$BUILD_SERVER" = xxheadless; then
   set_x_paths=no
 fi
 
+PKG_PROG_PKG_CONFIG
+
 if test $set_x_paths = yes; then
   GRAPHIC_CFLAGS="$X_CFLAGS $GRAPHIC_CFLAGS"
   CPPFLAGS="$X_CFLAGS $CPPFLAGS"
@@ -284,8 +286,7 @@ AC_ARG_WITH(freetype,
 
 have_freetype=no
 if test $with_freetype = yes; then
-  FREETYPE_LIBS="`freetype-config --libs`"
-  FREETYPE_CFLAGS="`freetype-config --cflags`"
+  PKG_CHECK_MODULES([FREETYPE], [freetype2])
 
   if test x"$FREETYPE_LIBS" != x; then
     save_CPPFLAGS=${CPPFLAGS}
@@ -298,7 +299,6 @@ fi
 #--------------------------------------------------------------------
 # Extended font support & UTF8 support
 #--------------------------------------------------------------------
-PKG_XFT=no
 PKG_CHECK_MODULES(XFT, xft, WITH_XFT=yes, WITH_XFT=no)
 
 if test $WITH_XFT = no; then
@@ -320,7 +320,6 @@ if test $WITH_XFT = no; then
   LIBS=${save_LIBS}
 else
   WITH_XFT=yes
-  PKG_XFT=yes
 fi
 
 if test $WITH_XFT = yes; then
@@ -478,17 +477,11 @@ fi
 #--------------------------------------------------------------------
 # Cairo graphics libraries
 #--------------------------------------------------------------------
-PKG_CAIRO=no
 PKG_CHECK_MODULES(CAIRO, cairo, have_cairo=yes, have_cairo=no)
-PKG_CAIRO_FT=no
 PKG_CHECK_MODULES(CAIRO_FT, cairo-ft, have_cairo_ft=yes, have_cairo_ft=no)
-PKG_CAIRO_XLIB=no
 PKG_CHECK_MODULES(CAIRO_XLIB, cairo-xlib, have_cairo_xlib=yes, have_cairo_xlib=no)
-PKG_CAIRO_WIN32=no
 PKG_CHECK_MODULES(CAIRO_WIN32, cairo-win32, have_cairo_win32=yes, have_cairo_win32=no)
-PKG_CAIRO_GLITZ=no
 PKG_CHECK_MODULES(CAIRO_GLITZ, cairo-glitz, have_cairo_glitz=yes, have_cairo_glitz=no)
-PKG_FONTCONFIG=no
 PKG_CHECK_MODULES(FONTCONFIG, fontconfig, have_fontconfig=yes, have_fontconfig=no)
 
 if test "$have_cairo" = no; then
