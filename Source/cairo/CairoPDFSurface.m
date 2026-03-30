@@ -42,7 +42,7 @@
 
   // FIXME: Hard coded size in points
   size = NSMakeSize(400, 400);
-  _surface = cairo_pdf_surface_create([path fileSystemRepresentation], 
+  _surface = cairo_pdf_surface_create((const char *)[path fileSystemRepresentation], 
                                       size.width, size.height);
   if (cairo_surface_status(_surface))
     {
